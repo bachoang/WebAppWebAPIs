@@ -1,1 +1,1 @@
-WebAppWebAPIs
+This is a .Net Core Web application sample logging in a user and then acquires different Access Tokens for different Azure AD protected web APIs. The sample gets an Access token for Microsoft Graph and a custom web API
